@@ -1,8 +1,8 @@
-class DataTransformation:
+class DataIngestion:
     def __init__(self):
         self.ingestion_config=DataIngestionConfig()
         
     
-    def get_data_transformation(self):
+    def initiate_data_ingestion(self):
         logging.info("data ingestion started")
         
