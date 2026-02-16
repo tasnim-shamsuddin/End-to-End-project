@@ -55,5 +55,25 @@ To build a machine learning model that can accurately predict the **diamond pric
 
 ### 3️⃣ Model Training
 - Trains multiple regress
+🧠 Machine Learning Models Used
 
+This project trains and compares multiple regression models such as:
+
+Linear Regression
+
+Ridge / Lasso Regression
+
+ElasticNet
+
+The best performing model is selected automatically.
+
+🚀 Future Improvements
+
+Add Flask / Streamlit UI for live predictions
+
+Hyperparameter tuning using GridSearchCV
+
+Add CI/CD pipeline for deployment
+
+Deploy on AWS / Render / HuggingFace Spaces
 
